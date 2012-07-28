@@ -77,4 +77,5 @@ body {
 
 .list > li:hover .children {
   display:block;
+  z-index:2;
 }
